@@ -65,10 +65,8 @@ python EncryptProApp.py
 - `icons/` - Application icons
 - `requirements.txt` - Project dependencies
 
-## Contributing
+## Author
 
-Feel free to submit issues and enhancement requests!
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
+- Ahmed Mahmoud Hassan
+- LinkedIn: (https://www.linkedin.com/in/ahmed-mahmoud-0513a9369)
+- GitHub: [@Ahmed-Mahmoud-Hassan](https://github.com/Ahmed-Mahmoud-Hassan) 
